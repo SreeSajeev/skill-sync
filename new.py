@@ -123,7 +123,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown('<div class="title">SkillSyn: AI-Powered Task Matching for Food Banks</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">SkillSync: AI-Powered Task Matching for Food Banks</div>', unsafe_allow_html=True)
 
 option = st.sidebar.selectbox("Are you a:", ("Volunteer", "Administrator"))
 
