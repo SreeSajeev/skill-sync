@@ -1,0 +1,32 @@
+task_name,required_skills,location,time,points,skills_encoded,location_encoded,time_encoded
+Task_1,Food Distribution,Distribution Center,Evening,22,1.0,1.0,1.0
+Task_2,Logistics,Community Center,Morning,20,4.0,0.0,2.0
+Task_3,Food Sorting,Community Center,Evening,46,2.0,0.0,1.0
+Task_4,Food Sorting,Warehouse,Morning,38,2.0,2.0,2.0
+Task_5,Food Sorting,Distribution Center,Afternoon,29,2.0,1.0,0.0
+Task_6,Community Outreach,Warehouse,Afternoon,13,0.0,2.0,0.0
+Task_7,Logistics,Community Center,Evening,40,4.0,0.0,1.0
+Task_8,Logistics,Warehouse,Evening,38,4.0,2.0,1.0
+Task_9,Food Sorting,Warehouse,Afternoon,43,2.0,2.0,0.0
+Task_10,Food Distribution,Community Center,Morning,23,1.0,0.0,2.0
+Task_11,Inventory Management,Warehouse,Afternoon,14,3.0,2.0,0.0
+Task_12,Food Distribution,Community Center,Morning,36,1.0,0.0,2.0
+Task_13,Logistics,Warehouse,Afternoon,24,4.0,2.0,0.0
+Task_14,Food Distribution,Distribution Center,Evening,19,1.0,1.0,1.0
+Task_15,Inventory Management,Community Center,Morning,37,3.0,0.0,2.0
+Task_16,Inventory Management,Distribution Center,Morning,47,3.0,1.0,2.0
+Task_17,Logistics,Warehouse,Evening,30,4.0,2.0,1.0
+Task_18,Inventory Management,Community Center,Morning,28,3.0,0.0,2.0
+Task_19,Logistics,Distribution Center,Morning,16,4.0,1.0,2.0
+Task_20,Food Distribution,Distribution Center,Evening,33,1.0,1.0,1.0
+Task_21,Food Distribution,Warehouse,Afternoon,23,1.0,2.0,0.0
+Task_22,Food Sorting,Distribution Center,Morning,23,2.0,1.0,2.0
+Task_23,Food Distribution,Community Center,Evening,24,1.0,0.0,1.0
+Task_24,Food Distribution,Distribution Center,Afternoon,15,1.0,1.0,0.0
+Task_25,Community Outreach,Distribution Center,Afternoon,34,0.0,1.0,0.0
+Task_26,Logistics,Warehouse,Morning,49,4.0,2.0,2.0
+Task_27,Food Sorting,Distribution Center,Afternoon,24,2.0,1.0,0.0
+Task_28,Food Sorting,Community Center,Afternoon,42,2.0,0.0,0.0
+Task_29,Food Distribution,Warehouse,Afternoon,14,1.0,2.0,0.0
+Task_30,Food Sorting,Community Center,Evening,15,2.0,0.0,1.0
+Inventory sorting,Food Sorting,Community Center,Morning,50,,,

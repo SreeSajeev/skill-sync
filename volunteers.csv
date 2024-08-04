@@ -1,0 +1,111 @@
+name,skills,location,availability,points,badges,skills_encoded,location_encoded,availability_encoded,task,cluster
+Volunteer_1,Food Distribution,Community Center,Evening,60,Community Champion,1.0,0.0,1.0,,1.0
+Volunteer_2,Logistics,Community Center,Afternoon,67,Top Sorter,4.0,0.0,0.0,,2.0
+Volunteer_3,Logistics,Warehouse,Afternoon,62,Best Organizer,4.0,2.0,0.0,,4.0
+Volunteer_4,Food Distribution,Distribution Center,Afternoon,67,Best Organizer,1.0,1.0,0.0,,3.0
+Volunteer_5,Food Distribution,Warehouse,Afternoon,83,Best Organizer,1.0,2.0,0.0,,3.0
+Volunteer_6,Food Distribution,Community Center,Evening,31,Best Organizer,1.0,0.0,1.0,,1.0
+Volunteer_7,Community Outreach,Warehouse,Evening,68,Best Organizer,0.0,2.0,1.0,,3.0
+Volunteer_8,Community Outreach,Distribution Center,Afternoon,1,Top Sorter,0.0,1.0,0.0,,1.0
+Volunteer_9,Inventory Management,Warehouse,Morning,38,Community Champion,3.0,2.0,2.0,,4.0
+Volunteer_10,Inventory Management,Distribution Center,Morning,30,Community Champion,3.0,1.0,2.0,,2.0
+Volunteer_11,Food Sorting,Warehouse,Morning,56,Best Organizer,2.0,2.0,2.0,,0.0
+Volunteer_12,Community Outreach,Distribution Center,Evening,67,Community Champion,0.0,1.0,1.0,,1.0
+Volunteer_13,Food Distribution,Community Center,Afternoon,43,Best Organizer,1.0,0.0,0.0,,1.0
+Volunteer_14,Food Distribution,Community Center,Evening,8,Community Champion,1.0,0.0,1.0,,1.0
+Volunteer_15,Logistics,Warehouse,Evening,93,Top Sorter,4.0,2.0,1.0,,4.0
+Volunteer_16,Community Outreach,Distribution Center,Evening,84,Best Organizer,0.0,1.0,1.0,,1.0
+Volunteer_17,Community Outreach,Warehouse,Afternoon,76,Community Champion,0.0,2.0,0.0,,3.0
+Volunteer_18,Inventory Management,Warehouse,Evening,13,Top Sorter,3.0,2.0,1.0,,4.0
+Volunteer_19,Logistics,Community Center,Morning,2,Top Sorter,4.0,0.0,2.0,,2.0
+Volunteer_20,Food Sorting,Community Center,Evening,85,Best Organizer,2.0,0.0,1.0,,2.0
+Volunteer_21,Inventory Management,Warehouse,Morning,49,Community Champion,3.0,2.0,2.0,,4.0
+Volunteer_22,Inventory Management,Warehouse,Morning,97,Best Organizer,3.0,2.0,2.0,,4.0
+Volunteer_23,Community Outreach,Distribution Center,Evening,85,Top Sorter,0.0,1.0,1.0,,1.0
+Volunteer_24,Food Sorting,Warehouse,Evening,88,Best Organizer,2.0,2.0,1.0,,0.0
+Volunteer_25,Inventory Management,Distribution Center,Morning,13,Best Organizer,3.0,1.0,2.0,,2.0
+Volunteer_26,Community Outreach,Community Center,Evening,31,Best Organizer,0.0,0.0,1.0,,1.0
+Volunteer_27,Inventory Management,Warehouse,Evening,17,Community Champion,3.0,2.0,1.0,,4.0
+Volunteer_28,Logistics,Community Center,Evening,21,Best Organizer,4.0,0.0,1.0,,2.0
+Volunteer_29,Logistics,Distribution Center,Evening,5,Best Organizer,4.0,1.0,1.0,,2.0
+Volunteer_30,Community Outreach,Distribution Center,Afternoon,62,Community Champion,0.0,1.0,0.0,,1.0
+Volunteer_31,Logistics,Warehouse,Morning,53,Best Organizer,4.0,2.0,2.0,,4.0
+Volunteer_32,Food Sorting,Distribution Center,Afternoon,31,Community Champion,2.0,1.0,0.0,,0.0
+Volunteer_33,Food Sorting,Distribution Center,Morning,71,Best Organizer,2.0,1.0,2.0,,0.0
+Volunteer_34,Inventory Management,Distribution Center,Morning,65,Top Sorter,3.0,1.0,2.0,,2.0
+Volunteer_35,Inventory Management,Distribution Center,Morning,22,Best Organizer,3.0,1.0,2.0,,2.0
+Volunteer_36,Inventory Management,Distribution Center,Evening,73,Top Sorter,3.0,1.0,1.0,,2.0
+Volunteer_37,Food Sorting,Distribution Center,Evening,99,Community Champion,2.0,1.0,1.0,,0.0
+Volunteer_38,Food Sorting,Warehouse,Afternoon,49,Top Sorter,2.0,2.0,0.0,,0.0
+Volunteer_39,Community Outreach,Distribution Center,Evening,63,Best Organizer,0.0,1.0,1.0,,1.0
+Volunteer_40,Inventory Management,Community Center,Evening,14,Best Organizer,3.0,0.0,1.0,,2.0
+Volunteer_41,Food Sorting,Warehouse,Evening,83,Top Sorter,2.0,2.0,1.0,,0.0
+Volunteer_42,Logistics,Distribution Center,Afternoon,49,Best Organizer,4.0,1.0,0.0,,2.0
+Volunteer_43,Logistics,Community Center,Afternoon,12,Best Organizer,4.0,0.0,0.0,,2.0
+Volunteer_44,Food Distribution,Community Center,Afternoon,78,Community Champion,1.0,0.0,0.0,,1.0
+Volunteer_45,Inventory Management,Community Center,Afternoon,15,Best Organizer,3.0,0.0,0.0,,2.0
+Volunteer_46,Food Distribution,Community Center,Afternoon,84,Best Organizer,1.0,0.0,0.0,,1.0
+Volunteer_47,Food Sorting,Distribution Center,Afternoon,74,Best Organizer,2.0,1.0,0.0,,0.0
+Volunteer_48,Inventory Management,Distribution Center,Morning,46,Top Sorter,3.0,1.0,2.0,,2.0
+Volunteer_49,Logistics,Warehouse,Evening,97,Community Champion,4.0,2.0,1.0,,4.0
+Volunteer_50,Food Distribution,Community Center,Afternoon,76,Best Organizer,1.0,0.0,0.0,,1.0
+Volunteer_51,Food Distribution,Warehouse,Afternoon,49,Community Champion,1.0,2.0,0.0,,3.0
+Volunteer_52,Inventory Management,Warehouse,Morning,64,Community Champion,3.0,2.0,2.0,,4.0
+Volunteer_53,Logistics,Warehouse,Morning,14,Top Sorter,4.0,2.0,2.0,,4.0
+Volunteer_54,Community Outreach,Distribution Center,Afternoon,59,Best Organizer,0.0,1.0,0.0,,1.0
+Volunteer_55,Inventory Management,Community Center,Afternoon,10,Best Organizer,3.0,0.0,0.0,,2.0
+Volunteer_56,Community Outreach,Community Center,Morning,59,Top Sorter,0.0,0.0,2.0,,1.0
+Volunteer_57,Community Outreach,Community Center,Evening,22,Best Organizer,0.0,0.0,1.0,,1.0
+Volunteer_58,Logistics,Community Center,Evening,45,Best Organizer,4.0,0.0,1.0,,2.0
+Volunteer_59,Logistics,Distribution Center,Evening,50,Top Sorter,4.0,1.0,1.0,,2.0
+Volunteer_60,Food Sorting,Distribution Center,Morning,55,Community Champion,2.0,1.0,2.0,,0.0
+Volunteer_61,Inventory Management,Distribution Center,Evening,84,Best Organizer,3.0,1.0,1.0,,2.0
+Volunteer_62,Food Sorting,Community Center,Morning,29,Community Champion,2.0,0.0,2.0,,2.0
+Volunteer_63,Community Outreach,Warehouse,Afternoon,44,Top Sorter,0.0,2.0,0.0,,3.0
+Volunteer_64,Inventory Management,Community Center,Morning,54,Community Champion,3.0,0.0,2.0,,2.0
+Volunteer_65,Food Distribution,Warehouse,Afternoon,13,Top Sorter,1.0,2.0,0.0,,3.0
+Volunteer_66,Logistics,Warehouse,Evening,12,Best Organizer,4.0,2.0,1.0,,4.0
+Volunteer_67,Logistics,Warehouse,Morning,32,Best Organizer,4.0,2.0,2.0,,4.0
+Volunteer_68,Food Sorting,Community Center,Evening,85,Top Sorter,2.0,0.0,1.0,,2.0
+Volunteer_69,Community Outreach,Warehouse,Evening,98,Best Organizer,0.0,2.0,1.0,,3.0
+Volunteer_70,Inventory Management,Warehouse,Morning,43,Best Organizer,3.0,2.0,2.0,,4.0
+Volunteer_71,Food Sorting,Distribution Center,Morning,30,Community Champion,2.0,1.0,2.0,,0.0
+Volunteer_72,Food Distribution,Warehouse,Afternoon,57,Community Champion,1.0,2.0,0.0,,3.0
+Volunteer_73,Inventory Management,Warehouse,Afternoon,14,Best Organizer,3.0,2.0,0.0,,0.0
+Volunteer_74,Inventory Management,Community Center,Morning,45,Top Sorter,3.0,0.0,2.0,,2.0
+Volunteer_75,Food Sorting,Warehouse,Evening,34,Community Champion,2.0,2.0,1.0,,0.0
+Volunteer_76,Food Sorting,Warehouse,Morning,43,Top Sorter,2.0,2.0,2.0,,0.0
+Volunteer_77,Food Distribution,Community Center,Evening,70,Community Champion,1.0,0.0,1.0,,1.0
+Volunteer_78,Community Outreach,Distribution Center,Morning,13,Top Sorter,0.0,1.0,2.0,,1.0
+Volunteer_79,Food Sorting,Warehouse,Afternoon,47,Community Champion,2.0,2.0,0.0,,0.0
+Volunteer_80,Food Distribution,Distribution Center,Afternoon,18,Community Champion,1.0,1.0,0.0,,3.0
+Volunteer_81,Food Sorting,Community Center,Morning,42,Top Sorter,2.0,0.0,2.0,,2.0
+Volunteer_82,Logistics,Warehouse,Evening,92,Top Sorter,4.0,2.0,1.0,,4.0
+Volunteer_83,Food Sorting,Community Center,Morning,9,Community Champion,2.0,0.0,2.0,,2.0
+Volunteer_84,Logistics,Distribution Center,Evening,24,Community Champion,4.0,1.0,1.0,,2.0
+Volunteer_85,Food Distribution,Community Center,Afternoon,1,Best Organizer,1.0,0.0,0.0,,1.0
+Volunteer_86,Logistics,Distribution Center,Morning,58,Community Champion,4.0,1.0,2.0,,4.0
+Volunteer_87,Logistics,Distribution Center,Morning,84,Top Sorter,4.0,1.0,2.0,,4.0
+Volunteer_88,Food Sorting,Distribution Center,Evening,94,Best Organizer,2.0,1.0,1.0,,0.0
+Volunteer_89,Food Sorting,Warehouse,Afternoon,0,Best Organizer,2.0,2.0,0.0,,0.0
+Volunteer_90,Logistics,Warehouse,Morning,60,Best Organizer,4.0,2.0,2.0,,4.0
+Volunteer_91,Food Sorting,Community Center,Morning,1,Best Organizer,2.0,0.0,2.0,,2.0
+Volunteer_92,Food Distribution,Warehouse,Afternoon,51,Best Organizer,1.0,2.0,0.0,,3.0
+Volunteer_93,Food Distribution,Community Center,Afternoon,66,Community Champion,1.0,0.0,0.0,,1.0
+Volunteer_94,Food Sorting,Distribution Center,Afternoon,41,Community Champion,2.0,1.0,0.0,,0.0
+Volunteer_95,Community Outreach,Warehouse,Evening,28,Best Organizer,0.0,2.0,1.0,,3.0
+Volunteer_96,Inventory Management,Community Center,Evening,18,Top Sorter,3.0,0.0,1.0,,2.0
+Volunteer_97,Food Sorting,Warehouse,Afternoon,31,Best Organizer,2.0,2.0,0.0,,0.0
+Volunteer_98,Community Outreach,Distribution Center,Afternoon,86,Community Champion,0.0,1.0,0.0,,1.0
+Volunteer_99,Food Distribution,Distribution Center,Evening,88,Community Champion,1.0,1.0,1.0,,1.0
+Volunteer_100,Logistics,Community Center,Afternoon,46,Best Organizer,4.0,0.0,0.0,,2.0
+Dedre,Food Sorting,Distribution Center,Morning,0,[],2.0,1.0,2.0,Task_26,0.0
+alna,Food Sorting,Warehouse,Morning,0,[],2.0,2.0,2.0,,0.0
+alna,Food Sorting,Distribution Center,Morning,0,[],2.0,1.0,2.0,,0.0
+Claire,Food Sorting,Warehouse,Morning,0,[],2.0,2.0,2.0,,0.0
+Spoorthi Kakiman,Community Outreach,Community Center,Afternoon,0,[],0.0,0.0,0.0,,1.0
+Spoorthi Kakiman,Community Outreach,Community Center,Morning,0,[],0.0,0.0,2.0,,1.0
+Alka,Community Outreach,Community Center,Evening,0,[],0.0,0.0,1.0,Task_25,1.0
+Alka,Community Outreach,Community Center,Afternoon,0,[],0.0,0.0,0.0,Task_25,1.0
+Alan,Community Outreach,Community Center,Afternoon,0,[],0.0,0.0,0.0,Task_25,1.0
+Shanti,Community Outreach,Community Center,Afternoon,0,[],,,,Task_25,
